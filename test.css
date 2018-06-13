@@ -1,0 +1,53 @@
+
+.Oakley-one {
+    border: 5px solid black;
+}
+.Oakley-two {
+    border: 5px solid black;
+}
+.Mom-dad {
+    border: 5px solid black;
+}
+.Amber-dal {
+    border: 5px solid black;
+}
+body {
+    background: linear-gradient(gray, #7696b8, gray, #7696b8,gray, #7696b8) ;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+button {
+    background-color: white;
+    font-style: normal;
+    
+}
+button:hover {
+    background-color: #46719f;
+    color: white;
+}
+Rain_Fire.mov {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+h1 {
+    background-color:(#7696b8, gray);
+    width: 350px; 
+}
+h2 ,h3 {
+    background-color: (#7696b8, gray);
+    width: 350px;
+}
+.Family{
+    font-family: Arial;
+}
+.Members{
+    font-family: Arial;
+}

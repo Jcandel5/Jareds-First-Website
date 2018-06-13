@@ -1,0 +1,1 @@
+var video = document.getElementById("Rain_Fire.mov");
